@@ -1,2 +1,3 @@
  git demo for reset 
  reset 2
+ reset 3
