@@ -1,1 +1,2 @@
  git demo for reset 
+ reset 2
